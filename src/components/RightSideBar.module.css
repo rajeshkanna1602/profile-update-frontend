@@ -1,0 +1,30 @@
+.flexChildC {
+  /* flex: 3; */
+  position: absolute;
+  bottom: 0;
+  height: 100%;
+  width: 30%;
+  left: 70%;
+  /* border: 2px solid yellow; */
+}
+.rightTop {
+  display: flex;
+  padding: 15px;
+  justify-content: center;
+}
+
+.pmTitle {
+  margin: 0;
+  text-align: left;
+}
+.pmDesin {
+  font-size: smaller;
+}
+.profilePreview {
+  height: 81%;
+  background: lightgray;
+  padding: 60px 90px 0px 60px;
+}
+.basicPad {
+  padding: 5px;
+}

@@ -1,0 +1,39 @@
+.flexChildA {
+  width: 25%;
+  bottom: 0;
+  position: absolute;
+  height: 100%;
+  /* border: 2px solid red; */
+}
+.outerDiv {
+  padding: 20px 15px;
+}
+
+.menuIcon {
+  display: flex;
+  justify-content: space-around;
+  padding: 10px;
+}
+.menu {
+  padding: 10px 10px;
+  display: flex;
+}
+.eachIcon {
+  margin: -5px;
+}
+.menuText {
+  padding-left: 15px;
+  color: gray;
+}
+.kyroStyle {
+  color: red;
+  font-weight: 900;
+  font-size: x-large;
+}
+.menuPart {
+  padding: 36px 15px;
+}
+.menuSecPart {
+  padding-top: 171px;
+  padding-left: 15px;
+}

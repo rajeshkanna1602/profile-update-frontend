@@ -1,0 +1,53 @@
+.flexChildB {
+  position: absolute;
+  left: 25%;
+  width: 45%;
+  bottom: 0;
+  height: 100%;
+  /* border: 2px solid blue; */
+}
+.outerDiv {
+  padding: 20px;
+}
+.topTiles {
+  display: flex;
+  flex-direction: column;
+  /* justify-content: left; */
+  align-items: flex-start;
+}
+.basicStyle {
+  padding-top: 10px;
+}
+.profileEditing {
+  margin: 15px;
+  /* box-sizing: border-box; */
+  box-shadow: burlywood;
+  box-shadow: 3px 3px lightgrey;
+  border-radius: 10px;
+  padding: 15px;
+}
+.inputRow {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 20px;
+}
+.finalRow {
+  justify-content: flex-start;
+  padding-left: 23px;
+}
+.myProfileTitle {
+  text-align: left;
+  /* position: absolute; */
+  /* left: 0px; */
+  /* padding: 28px 0px 10px 0px; */
+  padding-top: 30px;
+}
+.buttonStyle {
+  padding-top: 40px;
+  display: flex;
+  /* align-items: start; */
+  justify-content: space-around;
+}
+.apiMessage {
+  padding: 30px 0px;
+}
