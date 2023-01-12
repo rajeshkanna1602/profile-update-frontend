@@ -7,16 +7,6 @@ import { ProfilePage } from "./components/ProfilePage";
 import { useEffect } from "react";
 
 function App() {
-  const [profileData, setProfileData] = useState({
-    firstname: "",
-    lastname: "",
-    displayname: "",
-    email: "",
-    priphone: "",
-    workphone: "",
-    location: "",
-  });
-
   return (
     <div className="App">
       <div>
